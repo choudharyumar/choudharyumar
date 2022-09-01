@@ -10,9 +10,9 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 
-<a href="https://fb.com/mohsinbalte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsinbalte" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohsinbalti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsinbalti" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@moshinbalti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@moshinbalti" height="30" width="40" /></a>
+<a href="https://fb.com/choudhary.umar.5458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsinbalte" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umar-hayat-713307229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsinbalti" height="30" width="40" /></a>
+
 </p>
 
 <h2 align="left" color="blue">Languages and Tools:</h2>
